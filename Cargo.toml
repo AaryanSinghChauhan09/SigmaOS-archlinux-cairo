@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-cairo component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-cairo"
+name = "sigmaos_archlinux_cairo"
 path = "src/lib.rs"
